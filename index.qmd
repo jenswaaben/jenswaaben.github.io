@@ -1,0 +1,23 @@
+---
+title: Jens Waaben
+about: 
+  template: trestles
+  image:  graphics/pictures/profiler.jpg
+  image-shape: rectangle
+  image-title: Jens Waaben
+  image-width: 20em
+---
+
+:::{#hero-heading}
+
+Jens is a Ph.D. Student at the university of Copenhagen supervised by Professor Søren Brunak. Jens' research revovles around the Danish publich health registries and how we can use them to investigate sex-specific patterns in medication and diagnosis. 
+
+## Education: 
+
+* 2023-2026: Ph.D. student at the University of Copenhagen 
+
+* 2020-2022: M.Sc. Bioinformatics and Systems biology, Technical University of Denmark
+
+* 2015-2020: B.Sc. & M.Sc. Molecular biomedicine, University of Copenhagen
+
+

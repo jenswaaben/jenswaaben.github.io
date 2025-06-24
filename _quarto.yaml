@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website: 
+  navbar: 
+    left: 
+      - text: "Home"
+        href: index.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Publications"
+        href: publications.qmd
+
+format: 
+    html: 
+        theme: 
+          light: flatly
+          dark: darkly
+        css: styles.scss

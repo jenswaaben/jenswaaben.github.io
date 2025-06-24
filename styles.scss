@@ -1,0 +1,15 @@
+/* rules */ 
+
+:root {
+  --content-width: 100%; /* Default width */
+}
+
+#quarto-content {
+  width: var(--content-width);
+  margin: 0 auto;
+}
+
+.quarto-about-trestles {
+  width: var(--content-width) !important;
+  margin: 0 auto;
+}
